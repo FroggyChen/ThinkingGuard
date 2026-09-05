@@ -22,7 +22,7 @@ Official repository for the ACM MM 2026 paper: **"ThinkingGuard: Decoding Implic
 Multimodal Large Language Models (MLLMs) face significant challenges when encountering **Multimodal Implicit Risks** — situations where isolated visual entities and text prompts are individually harmless, but logically converge into unsafe consequences upon interaction (e.g., using flammable spray near an open flame).
 
 <p align="center">
-  <img src="assets/framework.png" width="90%" alt="ThinkingGuard Framework">
+  <img src="framework.png" width="90%" alt="ThinkingGuard Framework">
 </p>
 
 To address this challenge:

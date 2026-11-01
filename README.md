@@ -13,7 +13,7 @@ Official repository for the ACM MM 2026 paper: **"ThinkingGuard: Decoding Implic
 ---
 
 ## 📌 News
-- **[2026.08]** ThinkingGuard model weights and datasets have now been officially released!
+- **[2026.08]** ThinkingGuard model weights and datasets TriggerBench have now been officially released!
 - **[2026.07]** Our paper has been accepted to **ACM Multimedia 2026 (MM '26)**!
 
 ---
